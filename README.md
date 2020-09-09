@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/zackteo/ClojureRS/blob/sample/logo/clojureRS-logo-horizontal.png" alt="ClojureRS Logo"/>
+  <img src="https://github.com/zackteo/ClojureRS/blob/bold/logo/clojureRS-logo-horizontal.png" alt="ClojureRS Logo"/>
 </p>
 
 <p align="center">Put simply, Clojure implemented atop Rust! For now, a Clojure interpreter implemented in Rust.</p>
