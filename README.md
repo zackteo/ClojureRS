@@ -2,14 +2,21 @@
   <img src="https://github.com/zackteo/ClojureRS/blob/sample/logo/clojureRS-logo-horizontal.png" alt="ClojureRS Logo"/>
 </p>
 
-----------
-![Github Workflow Status](https://img.shields.io/github/workflow/status/clojure-rs/ClojureRS/Rust)
-[![Discord](https://img.shields.io/discord/703549047901913189?logo=discord)](https://discord.gg/mFE3JNr)
+<p align="center">Put simply, Clojure implemented atop Rust! For now, a Clojure interpreter implemented in Rust.</p>
 
-Put simply, Clojure implemented atop Rust! For now, a Clojure interpreter implemented in Rust. 
+<p align="center"> 
+<img src="https://img.shields.io/github/workflow/status/clojure-rs/ClojureRS/Rust"></a>
+<a href="https://discord.gg/mFE3JNr"><img src="https://img.shields.io/discord/703549047901913189?logo=discord"></a>
+</p>
+
+
 
 ![REPL](https://i.imgur.com/rpioVBP.png)
+
+
+<p align="center">
 *The repl in action*
+</p>
 
 ## Project Goals:
 1. To create a version of Clojure that gets to exist independent of a particular platform
