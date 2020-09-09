@@ -16,9 +16,9 @@
 ![REPL](https://i.imgur.com/rpioVBP.png)
 
 
-<p align="center">
+<p align="center"><i>
 *The repl in action*
-</p>
+  </i></p>
 
 ## Project Goals:
 1. To create a version of Clojure that gets to exist independent of a particular platform
