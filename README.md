@@ -4,6 +4,8 @@
 
 <p align="center">Put simply, Clojure implemented atop Rust! For now, a Clojure interpreter implemented in Rust.</p>
 
+----------
+
 <p align="center"> 
 <img src="https://img.shields.io/github/workflow/status/clojure-rs/ClojureRS/Rust"></a>
 <a href="https://discord.gg/mFE3JNr"><img src="https://img.shields.io/discord/703549047901913189?logo=discord"></a>
