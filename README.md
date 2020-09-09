@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.github.com/clojure-rs/ClojureRS/master/clojureRS-logo-horizontal.png" alt="ClojureRS Logo"/>
+  <img src="https://github.com/zackteo/ClojureRS/blob/sample/logo/clojureRS-logo-horizontal.png" alt="ClojureRS Logo"/>
 </p>
 
 ----------
