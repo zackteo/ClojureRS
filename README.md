@@ -17,7 +17,7 @@
 
 
 <p align="center"><i>
-*The repl in action*
+The repl in action
   </i></p>
 
 ## Project Goals:
