@@ -2,7 +2,7 @@
   <img src="https://github.com/zackteo/ClojureRS/blob/sample/logo/clojureRS-logo-horizontal.png" alt="ClojureRS Logo"/>
 </p>
 
-<p align="center">Put simply, Clojure implemented atop Rust! For now, a Clojure interpreter implemented in Rust.</p>
+<p align="center"><b>Put simply, Clojure implemented atop Rust! For now, a Clojure interpreter implemented in Rust.</b></p>
 
 <p align="center"> 
 <img src="https://img.shields.io/github/workflow/status/clojure-rs/ClojureRS/Rust"></a>
